@@ -1,0 +1,17 @@
+{
+  "last_build": "2026-03-09T08:09:14Z",
+  "build_status": "passing",
+  "commit_sha": "93d05d2",
+  "version": "v4.2.7",
+  "tests": "1299",
+  "fe_tests": "827",
+  "be_tests": "472",
+  "adrs": "54",
+  "sessions": "160",
+  "k8s_files": "30",
+  "frameworks": "11",
+  "providers": "6",
+  "npm_dependencies": "39",
+  "npm_dev_dependencies": "24",
+  "wcag_level": "2.2 AA"
+}
