@@ -1,11 +1,11 @@
 {
-  "generated": "2026-03-15T15:21:30Z",
+  "generated": "2026-04-02T15:12:47Z",
   "source": "chaselance/MagVinLab",
-  "commit": "ad1821c15ee55413e04706a6f64981313f50e530",
+  "commit": "cf61108f6ec996f3a6e4a8d83356ad6aee9deb66",
   "data": {
-    "version": "v4.2.7",
+    "version": "v4.2.8",
     "tests": "1299",
-    "adrs": "54",
+    "adrs": "55",
     "mdp": "v1.31",
     "sessions": "169",
     "k8s_files": "33",
